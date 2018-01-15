@@ -6,9 +6,12 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Contents
 
-- [Web](#Web)
+- [Web](#web)
 - [Mobile](#mobile)
+- [Other](#other)
 - [Related lists](#related-lists)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Web
 

@@ -20,7 +20,6 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [vue-cli](https://github.com/vuejs/vue-cli) - A simple CLI for scaffolding Vue.js projects.
 * [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
 * [ember-cli](https://github.com/ember-cli/ember-cli) - The Ember.js command line utility.
-* [@dojo/cli](https://github.com/dojo/cli) - The CLI is the officially supported way to create and maintain Dojo 2 apps.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 * [Next.js](https://github.com/zeit/next.js/) - Next.js is a minimalistic framework for server-rendered React applications.
 * [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.

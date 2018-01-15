@@ -8,12 +8,18 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+If you are adding a new entry:
+
+1. Make sure the title says "Add [new entry]", with the name of the entry.
+1. The entry is in the appropiate section.
+1. The entry is not a duplicate.
+1. The format of the entry should be a link to the repository or site and 
+a short description, separated by a dash, and ending with a punctuation mark. Example:
+	* [Entry](Link URL) - Short description.
+1. The text of the link should be the name of the package or project.
+1. Is added at the bottom of of each section/category.
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 

@@ -36,7 +36,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ##  Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
 
 ## Contribute

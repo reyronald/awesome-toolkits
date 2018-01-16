@@ -39,6 +39,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for [Kent C. Dodds](https://github.com/kentcdodds/kcd-scripts)' projects.
 * [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs.
 * [d-scripts](https://github.com/trae/d-scripts): Opinionated toolkit for Node apps based on [kcd-scripts](https://github.com/kentcdodds/kcd-scripts).
+* [nodify](https://github.com/shrynx/nodify) - Zero-config build tool system for Node.js.
 
 ##  Related lists
 

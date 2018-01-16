@@ -27,6 +27,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create Next App](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command.
 * [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
+* [Sapper](https://github.com/sveltejs/sapper) - Military-grade progressive web apps, powered by Svelte.
 * [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
 * [Razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).

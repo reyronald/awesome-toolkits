@@ -25,6 +25,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with zero configuration.
 * [Parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
+* [Create Next App](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command.
 * [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 * [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
 * [Razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration.

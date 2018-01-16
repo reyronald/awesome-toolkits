@@ -22,13 +22,13 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
 * [ember-cli](https://github.com/ember-cli/ember-cli) - The Ember.js command line utility.
 * [Aurelia CLI](https://github.com/aurelia/cli) - The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.
-* [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
-* [Next.js](https://github.com/zeit/next.js/) - Next.js is a minimalistic framework for server-rendered React applications.
+* [Parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler.
+* [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
 * [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 * [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
-* [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
+* [Razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
-* [Gatsby](https://github.com/gatsbyjs/gatsby) - Blazing-fast static site generator for React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing-fast static site generator for React.
 * [Neutrino](https://github.com/mozilla-neutrino/neutrino-dev) - Create and build modern JavaScript applications with zero initial configuration.
 * [Backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 
@@ -42,14 +42,14 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts) - This package includes scripts and configuration used by Create React App.
 * [react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting.
 * [kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for [Kent C. Dodds](https://github.com/kentcdodds/kcd-scripts)' projects.
-* [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs.
-* [d-scripts](https://github.com/trae/d-scripts): Opinionated toolkit for Node apps based on [kcd-scripts](https://github.com/kentcdodds/kcd-scripts).
+* [react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs.
+* [d-scripts](https://github.com/trae/d-scripts) - Opinionated toolkit for Node apps based on [kcd-scripts](https://github.com/kentcdodds/kcd-scripts).
 * [nodify](https://github.com/shrynx/nodify) - Zero-config build tool system for Node.js.
 
 ##  Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
+* [Awesome](https://github.com/sindresorhus/awesome) - 😎 Curated list of awesome lists.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
 

@@ -53,9 +53,9 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Resources
 
-* [Popular alternatives to Create React App](https://github.com/facebookincubator/create-react-app#popular-alternatives).
-* ["Dan Abramov - The Melting Pot of JavaScript"](https://www.youtube.com/watch?v=G39lKaONAlA) video by @gaearon.
-* ["Tools without config 🛠📦"](https://blog.kentcdodds.com/automation-without-config-412ab5e47229) blog post, by @kentcdodds.
+* [Popular alternatives to Create React App](https://github.com/facebookincubator/create-react-app#popular-alternatives) in the official Create React App repo.
+* ["Dan Abramov - The Melting Pot of JavaScript"](https://www.youtube.com/watch?v=G39lKaONAlA) video by [Dan Abramov](https://github.com/gaearon).
+* ["Tools without config 🛠📦"](https://blog.kentcdodds.com/automation-without-config-412ab5e47229) blog post, by [Kent C. Dodds](https://github.com/kentcdodds).
 * [Some words about JavaScript fatigue](https://hackernoon.com/its-ok-to-not-use-yarn-f28dc766ef32#f380) section on the article "It’s OK to not use Yarn" by [David Gilbertson](https://hackernoon.com/@david.gilbertson).
 
 ## Contribute

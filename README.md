@@ -31,13 +31,15 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 ## Mobile
 
 * [Create React Native App](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
+* [Ionic Framework](https://ionicframework.com/getting-started) - Create a hybrid app based on Angular & Cordova on any OS with minimal build config
 
 ## Other
 
 * [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts) - This package includes scripts and configuration used by Create React App.
 * [kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for [Kent C. Dodds](https://github.com/kentcdodds/kcd-scripts)' projects.
-* [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
-* [nodify](https://github.com/shrynx/nodify) - Zero-config build tool system for Node.js
+* [react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs.
+* [d-scripts](https://github.com/trae/d-scripts): Opinionated toolkit for Node apps based on [kcd-scripts](https://github.com/kentcdodds/kcd-scripts).
+* [nodify](https://github.com/shrynx/nodify) - Zero-config build tool system for Node.js.
 
 ##  Related lists
 

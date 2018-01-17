@@ -38,7 +38,8 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 ## Mobile
 
 * [Create React Native App](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config.
-* [Ionic Framework](https://ionicframework.com/getting-started) - Create a hybrid app based on Angular & Cordova on any OS with minimal build config
+* [Ionic Framework](https://ionicframework.com/getting-started) - Create a hybrid app based on Angular & Cordova on any OS with minimal build config.
+* [Qusar Framework](http://quasar-framework.org/) - Build responsive websites, PWAs, hybrid mobile Apps (that look native!) and Electron apps, all simultaneously using same codebase, powered with Vue.
 
 ## Other
 

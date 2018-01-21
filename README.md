@@ -16,6 +16,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Web
 
+* [Node Essential Kit](http://github.com/ichtrojan/essential-kit) - Create Node Apps without configuring the essentials
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) - Create WordPress Gutenberg plugins with zero-configuration.
 * [Create React App Typescript](https://github.com/wmonk/create-react-app-typescript) - Create React apps using typescript with no build configuration.

@@ -17,7 +17,6 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 ## Web
 
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-* [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) - Create WordPress Gutenberg plugins with zero-configuration.
 * [Create React App Typescript](https://github.com/wmonk/create-react-app-typescript) - Create React apps using typescript with no build configuration.
 * [vue-cli](https://github.com/vuejs/vue-cli) - A simple CLI for scaffolding Vue.js projects.
 * [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
@@ -34,7 +33,9 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - ⚛️📄🚀 Blazing-fast static site generator for React.
 * [Neutrino](https://github.com/mozilla-neutrino/neutrino-dev) - Create and build modern JavaScript applications with zero initial configuration.
+* [Strapi](https://github.com/strapi/strapi/) - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
 * [Backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
+* [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) - Create WordPress Gutenberg plugins with zero-configuration.
 
 ## Mobile
 

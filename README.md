@@ -19,6 +19,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 * [Create React App Typescript](https://github.com/wmonk/create-react-app-typescript) - Create React apps using typescript with no build configuration.
 * [vue-cli](https://github.com/vuejs/vue-cli) - A simple CLI for scaffolding Vue.js projects.
+* [preact-cli](https://github.com/developit/preact-cli) - High-performance Preact PWA's in seconds.
 * [Angular CLI](https://github.com/angular/angular-cli) - CLI tool for Angular.
 * [ember-cli](https://github.com/ember-cli/ember-cli) - The Ember.js command line utility.
 * [Aurelia CLI](https://github.com/aurelia/cli) - The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.

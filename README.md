@@ -1,8 +1,8 @@
 # Awesome Toolkits [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of open source, high-quality, popular and well maintained toolkits
+> A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits
 
-A "toolkit" is a set of tools in any form that allows you to create applications with no build configuration. Also known as "[zero-configuration tools](https://github.com/topics/zero-configuration)".
+A "toolkit" is a set of tools in any form that allows you to create applications with no build configuration. Also known as "[zero-configuration tools](https://github.com/topics/zero-configuration)" (#0CJS).
 
 ## Contents
 

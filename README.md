@@ -37,6 +37,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Strapi](https://github.com/strapi/strapi/) - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
 * [Backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) - Create WordPress Gutenberg plugins with zero-configuration.
+* [Rekit](https://github.com/supnate/rekit) - Toolkit for building scalable web applications with React, Redux and React-router.
 
 ## Mobile
 

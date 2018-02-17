@@ -38,6 +38,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) - Create WordPress Gutenberg plugins with zero-configuration.
 * [Rekit](https://github.com/supnate/rekit) - Toolkit for building scalable web applications with React, Redux and React-router.
+* [Docusaurus](https://github.com/facebook/Docusaurus) - Easy to maintain open source documentation websites.
 
 ## Mobile
 

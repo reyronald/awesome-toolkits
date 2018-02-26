@@ -24,6 +24,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [ember-cli](https://github.com/ember-cli/ember-cli) - The Ember.js command line utility.
 * [Aurelia CLI](https://github.com/aurelia/cli) - The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.
 * [Create Elm App](https://github.com/halfzebra/create-elm-app) - Create Elm apps with zero configuration.
+* [Webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [Parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create Next App](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command.

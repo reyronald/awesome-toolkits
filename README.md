@@ -55,6 +55,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs.
 * [d-scripts](https://github.com/trae/d-scripts) - Opinionated toolkit for Node apps based on [kcd-scripts](https://github.com/kentcdodds/kcd-scripts).
 * [nodify](https://github.com/shrynx/nodify) - Zero-config build tool system for Node.js.
+* [blogfoster-scripts](https://github.com/blogfoster/blogfoster-scripts/) - Single-command, zero-config tooling for Node.js projects
 
 ##  Related lists
 
@@ -68,6 +69,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [Popular alternatives to Create React App](https://github.com/facebookincubator/create-react-app#popular-alternatives) in the official Create React App repo.
 * ["Dan Abramov - The Melting Pot of JavaScript"](https://www.youtube.com/watch?v=G39lKaONAlA) video by [Dan Abramov](https://github.com/gaearon).
 * [Some words about JavaScript fatigue](https://hackernoon.com/its-ok-to-not-use-yarn-f28dc766ef32#f380) section on the article "It’s OK to not use Yarn" by [David Gilbertson](https://hackernoon.com/@david.gilbertson).
+* [How we simplified our tooling setup for Node.js projects](https://medium.com/blogfoster-engineering/how-we-simplified-our-tooling-setup-for-node-js-projects-80b423293b2c)
 
 ## Contribute
 
